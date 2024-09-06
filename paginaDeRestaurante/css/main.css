@@ -1,0 +1,13 @@
+header{
+    background-color: rgb(33, 37, 41);
+}
+.card{
+    height: 410px;
+    margin-top: 5%;
+    display: flex;          /* Activa flexbox */
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;
+}
+footer{
+    padding:5px;
+}
